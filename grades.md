@@ -7,11 +7,7 @@
 | Mid Sem | 95 |
 | Final | 87 |
 
-## Certificates
-
-![Certificate 1](https://github.com/jbfridley/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
+![Certificate](./FinalCertificate.jpeg)
 
 <img src="FinalCertificate.jpeg" alt="certificate">
 
