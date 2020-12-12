@@ -13,4 +13,6 @@
 
 ![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
 
+<img src="FinalCertificate.jpeg" alt="certificate">
+
 [return to home](./README.md)
